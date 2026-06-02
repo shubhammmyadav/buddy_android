@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buddy</string>
+    <string name="download_progress_label">Downloading AI model…</string>
+    <string name="chat_hint">Tell Buddy about your day…</string>
+    <string name="send_button_cd">Send message</string>
+</resources>

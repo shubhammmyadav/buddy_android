@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+app/build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches/
+.idea/navEditor.xml
+.idea/deploymentTargetDropDown.xml
+.idea/deviceManager.xml
+.idea/deploymentTargetSelector.xml
+.idea/studiobot.xml
+*.iml
+*.ipr
+*.iws
+
+# Keystore / signing
+*.jks
+*.keystore
+keystore.properties
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kotlin
+*.class
+
+# Logs
+*.log
